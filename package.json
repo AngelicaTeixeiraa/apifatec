@@ -1,0 +1,12 @@
+{
+  "name": "apifatec",
+  "version": "1.0.0",
+  "description": "Api fake realizada na aula de Integracao e Entrega Continua (DevOps)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
