@@ -1,0 +1,16 @@
+{
+    "users":[
+        {
+            "id":1,
+            "nome":"Angélica Teixeira",
+            "email":"angelicagamers@gmail.com",
+            "score":50
+        },
+        {
+            "id":2,
+            "nome":"Juninho",
+            "email":"junin@gmail.com",
+            "score":70
+        }
+    ]
+}
